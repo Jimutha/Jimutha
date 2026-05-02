@@ -7,7 +7,7 @@
   </h1>
 </div>
 
-<h3 align="center">Full Stack devoloper,UX/UI Designer, Web developer</h3>
+<h3 align="center">Full Stack devoloper,Mobile Application developer, Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimutha&label=Profile%20views&color=0e75b6&style=flat" alt="jimutha" /> </p>
 
